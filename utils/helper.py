@@ -16,7 +16,7 @@ from sklearn.pipeline import Pipeline
 from sklearn.preprocessing import OneHotEncoder, OrdinalEncoder, StandardScaler, MinMaxScaler, LabelEncoder
 import warnings
 
-set_config(transform_output="pandas")
+#set_config(transform_output="pandas")
 seed = 42
 
 
