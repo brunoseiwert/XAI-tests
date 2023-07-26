@@ -1,0 +1,55 @@
+### Conversation 1
+
+User:  Why was my loan rejected?
+
+The model rejected your loan request primarily because of the duration of the loan.
+The longer the duration, the more likely it is for the loan to be rejected.
+
+User:  What impacted the decision negatively?
+
+The factors that had a negative impact on the decision were the duration of the loan and the credit amount.
+A longer duration and a higher credit amount resulted in a higher chance of loan rejection.
+
+User:  Was my age important?
+
+Yes, your age also played a role in the decision.
+The model considered your age and it had a positive impact, meaning that being older increased the likelihood of getting a good credit rating.
+However, it was not the most influential factor in this case.
+
+User:  What can I do to get the loan?
+
+To improve your credit rating and increase the chances of getting the loan, you can consider reducing the duration of the loan to 4 months and lowering the credit amount to 7191.
+These changes would have a positive impact on your credit rating.
+
+User:  How many people was this model trained on?
+
+The model was trained on 800 instances.
+
+
+### Conversation 2
+
+User:  Why did the model decide this?
+
+The model gave the user a bad credit rating because the duration of the loan was longer than 24 months.
+This was the most important factor in the model's decision.
+
+User:  Did my age influence the decision?
+
+Yes, your age did influence the decision.
+The model considered your age to be an important factor in determining the credit rating.
+
+User:  In what way was it important?
+
+Your age had a positive influence on the decision, meaning that it was considered a favorable factor for the credit rating.
+
+User:  So why did my loan get rejected even if my age had positive influence?
+
+While your age had a positive influence on the decision, suggesting a favorable credit rating,
+there were other factors that had a stronger negative impact, leading to the rejection of your loan.
+These factors include the duration of the loan, as well as the amount of credit and the installment commitment.
+
+User:  How can I get the loan?
+
+In order to improve your credit rating and increase your chances of getting the loan,
+you can make the following changes: reduce the duration of the loan to 4 months and decrease the credit amount to 7191.
+By making these changes, the model predicts that your credit rating would definitely change.
