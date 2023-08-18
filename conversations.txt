@@ -1,55 +1,123 @@
-### Conversation 1
+### Conversation 1 ###
 
-User:  Why was my loan rejected?
+Assistant: Based on the model's decision, your credit rating is 'bad'. The most important factor in this decision was the duration of the loan, which is greater than 24 months. If you have any questions about the model or the decision, feel free to ask.
 
-The model rejected your loan request primarily because of the duration of the loan.
-The longer the duration, the more likely it is for the loan to be rejected.
+User:  Can you explain to me what features the model uses and what they mean?
 
-User:  What impacted the decision negatively?
+Assistant: Certainly! The model uses several features to evaluate the credit rating. Here is a brief explanation of each feature:
+        1. Duration: This represents the duration of the loan or credit in months. It is the length of time the borrower will be required to repay the amount.
+        2. Credit Amount: This is the amount of credit requested by the borrower. It indicates the total sum of money being borrowed.
+        3. Installment Commitment: This feature represents the installment rate as a percentage of disposable income. It indicates the borrower's ability to manage their monthly payments based on their income.
+        4. Residence Since: This feature measures the length of time the customer has been residing at their current residence in years. It provides an insight into stability and reliability.
+        5. Age: This is the age of the customer in years. It is an important factor as it indicates the borrower's level of financial experience and stability.
+        6. Existing Credits: This refers to the number of existing credits the customer has at this bank. It provides information on their credit history and their ability to manage multiple credit obligations.
+        7. Num Dependents: This feature represents the number of people the customer is responsible for providing financial support for. It helps assess the borrower's financial responsibilities.
 
-The factors that had a negative impact on the decision were the duration of the loan and the credit amount.
-A longer duration and a higher credit amount resulted in a higher chance of loan rejection.
+        These features are used by the model to evaluate the creditworthiness of the borrower and determine their credit rating.
 
-User:  Was my age important?
+### Conversation 2 ###
 
-Yes, your age also played a role in the decision.
-The model considered your age and it had a positive impact, meaning that being older increased the likelihood of getting a good credit rating.
-However, it was not the most influential factor in this case.
+Assistant: The model has classified your credit rating as bad.
+        The most important factor in this decision was the duration of the loan, which is over 24 months.
+        If you have any questions about the model or its decision, feel free to ask.
 
-User:  What can I do to get the loan?
+User: Why was my loan rejected?
 
-To improve your credit rating and increase the chances of getting the loan, you can consider reducing the duration of the loan to 4 months and lowering the credit amount to 7191.
-These changes would have a positive impact on your credit rating.
+Assistant: The model rejected your loan request primarily because of the duration of the loan.
+        The longer the duration, the more likely it is for the loan to be rejected.
 
-User:  How many people was this model trained on?
+User: What impacted the decision negatively?
 
-The model was trained on 800 instances.
+Assistant: The factors that had a negative impact on the decision were the duration of the loan and the credit amount.
+        A longer duration and a higher credit amount resulted in a higher chance of loan rejection.
 
+User: Was my age important?
 
-### Conversation 2
+Assistant: Yes, your age also played a role in the decision.
+        The model considered your age and it had a positive impact,
+        meaning that being older increased the likelihood of getting a good credit rating.
+        However, it was not the most influential factor in this case.
 
-User:  Why did the model decide this?
+User: What can I do to get the loan?
 
-The model gave the user a bad credit rating because the duration of the loan was longer than 24 months.
-This was the most important factor in the model's decision.
+Assistant: To improve your credit rating and increase the chances of getting the loan,
+        you can consider reducing the duration of the loan to 4 months and lowering the credit amount to 7191€.
+        These changes would have a positive impact on your credit rating.
 
-User:  Did my age influence the decision?
+### Conversation 3 ###
 
-Yes, your age did influence the decision.
-The model considered your age to be an important factor in determining the credit rating.
+Assistant: Based on the model's decision, your credit rating is deemed as bad.
+        The most important factor that influenced this decision was the duration of the loan, which is greater than 24 months.
+        If you have any questions about the model's decision or how it works, feel free to ask.
 
-User:  In what way was it important?
+User: Why did the model decide this?
 
-Your age had a positive influence on the decision, meaning that it was considered a favorable factor for the credit rating.
+Assistant: The model gave you a bad credit rating because the duration of the loan was longer than 24 months.
+        This was the most important factor in the model's decision.
 
-User:  So why did my loan get rejected even if my age had positive influence?
+User: Did my age influence the decision?
 
-While your age had a positive influence on the decision, suggesting a favorable credit rating,
-there were other factors that had a stronger negative impact, leading to the rejection of your loan.
-These factors include the duration of the loan, as well as the amount of credit and the installment commitment.
+Assistant: Yes, your age did influence the decision.
+        The model considered your age to be an important factor in determining the credit rating.
 
-User:  How can I get the loan?
+User: In what way was it important?
 
-In order to improve your credit rating and increase your chances of getting the loan,
-you can make the following changes: reduce the duration of the loan to 4 months and decrease the credit amount to 7191.
-By making these changes, the model predicts that your credit rating would definitely change.
+Assistant: Your age had a positive influence on the decision, meaning that it was considered a favorable factor for the credit rating.
+
+User: So why did my loan get rejected even if my age had positive influence?
+
+Assistant: While your age had a positive influence on the decision, suggesting a favorable credit rating,
+        there were other factors that had a stronger negative impact, leading to the rejection of your loan.
+        These factors include the duration of the loan, as well as the amount of credit and the installment commitment.
+
+User: How can I get the loan?
+
+Assistant: In order to improve your credit rating and increase your chances of getting the loan, you can make the following changes:
+        reduce the duration of the loan to 4 months and decrease the credit amount to 7191€.
+        By making these changes, the model predicts that your credit rating would definitely change.
+
+### Conversation 4 ###
+
+Assistant: Based on the features provided, the model classified your credit rating as 'bad'.
+        The most influential feature for this decision was the duration of the loan, which was greater than 24 months.
+        If you have any further questions about the model or its decision, feel free to ask.
+
+User: How long should my loan be for me to get the loan?
+
+Assistant: In order to improve your credit rating and increase the likelihood of getting the loan approved,
+        the duration of your loan should be less than or equal to 24 months.
+        However, please note that there are other factors considered by the model as well.
+
+User: Change duration to 24 months
+
+Assistant: I have updated the duration of the loan to be 24 months.
+        However, based on the updated features, the model still classifies the credit rating as 'bad'.
+
+User: What else can I do to get the loan?
+
+Assistant: Based on the current features, in order to improve the credit rating and increase the likelihood of getting the loan,
+        you could reduce the amount of credit requested to 9.521€ instead of 12.204€.
+        This change is predicted to have a definitive impact on the credit rating.
+
+User: Set my credit amount to 9500
+
+Assistant: I have updated the credit amount to 9.500€. Based on the updated features, the model now classifies the credit rating as 'good'.
+        This change has improved your chances of getting the loan approved.
+
+User: What were the most important features in the new decision?
+
+Assistant: The most important feature that led to the improved credit rating is your age, which is older than 41 years.
+        This feature had a positive impact on the rating, meaning it contributed to a good rating or loan acceptance.
+        Other features such as the credit amount, installment commitment, number of existing credits, duration of the loan,
+        residence since, and number of dependents also played a role in the decision.
+        However, the age feature had the highest impact.
+        If you have any further questions or need more information, feel free to ask.
+
+User: Why is a higher age good for my credit rating?
+
+Assistant: A higher age is generally considered favorable for credit ratings
+        because it implies more financial stabilityand a longer credit history.
+        Lenders typically view older individuals as having a higher likelihood of having established a positive credit track record
+        and being responsible with their financial obligations.
+        This perception of reliability and experience in managing finances increases the chances of obtaining a good credit rating.
+        However, it's important to note that age is just one factor among many that lenders consider when assessing creditworthiness.
